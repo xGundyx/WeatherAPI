@@ -1,7 +1,7 @@
 {
 	"Changelist" : 3249277,
 	"CompatibleChangelist" : 3195953,
-	"BuildId" : "4e2a8114-7e6f-4c00-b361-b38af67a1573",
+	"BuildId" : "3eb454e0-0be4-4c80-b21d-9fb6b5de656b",
 	"Modules" : 
 	{
 		"WeatherAPI" : "UE4Editor-WeatherAPI.dll"
